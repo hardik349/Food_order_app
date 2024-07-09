@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Food order</string>
+    //food type data strings
+    <string name="biryani">Biryani</string>
+    <string name="rice_items">Rice Items</string>
+    <string name="curry">Curry</string>
+    <string name="desserts">Desserts</string>
+</resources>
